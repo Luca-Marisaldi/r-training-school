@@ -9,9 +9,7 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social: []
-organizations:
-  - name: Stanford University
-    url: ""
+organizations: []
 education:
   courses: []
 superuser: true
