@@ -2,7 +2,7 @@
 widget: hero
 widget_id: Homepage
 headless: true
-weight: 1
+weight: 20
 title: R training School
 active: false
 design:
