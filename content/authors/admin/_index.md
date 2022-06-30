@@ -1,5 +1,7 @@
 ---
-role: Professor of Artificial Intelligence
+title: Luca Marisaldi
+role: Docente di analisi dei dati
+avatar_filename: bio.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -25,7 +27,6 @@ superuser: true
 user_groups:
   - Researchers
 highlight_name: false
-title: Nelson Bighetti
 email: ""
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
