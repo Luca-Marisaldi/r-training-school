@@ -1,6 +1,6 @@
 ---
-widget: hero
-widget_id: Homepage
+widget: hero.md
+widget_id: R Training School
 headless: true
 weight: 10
 title: R training School
