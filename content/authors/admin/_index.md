@@ -13,7 +13,8 @@ organizations: []
 education:
   courses: []
 superuser: true
-user_groups: []
+user_groups:
+  - Docente
 highlight_name: false
 email: ""
 ---
