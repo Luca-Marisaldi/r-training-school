@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 10
+weight: 0
 title: R Training School
 hero_media: welcome.jpg
 widget_id: "1"
