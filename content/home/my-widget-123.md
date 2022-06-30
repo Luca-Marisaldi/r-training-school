@@ -4,7 +4,7 @@ widget_id: Homepage
 headless: true
 weight: 40
 title: R training School
-active: true
+active: false
 design:
   columns: "2"
   background:
