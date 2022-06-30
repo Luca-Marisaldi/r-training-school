@@ -3,7 +3,7 @@ widget: hero
 widget_id: Homepage
 headless: true
 weight: 5
-title: R Training School
+title: R training School
 active: true
 design:
   columns: "1"
