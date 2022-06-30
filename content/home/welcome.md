@@ -4,13 +4,13 @@ widget_id: "1"
 headless: true
 weight: 10
 title: R Training School
-active: true
+active: false
 design:
   columns: "1"
   css_style: null
   css_class: null
   background:
-    color: "#9a3e3e"
+    color: rgba(154, 62, 62, 0)
     gradient_start: rgba(255, 255, 255, 0)
     gradient_end: rgba(255, 255, 255, 0)
     text_color_light: true
