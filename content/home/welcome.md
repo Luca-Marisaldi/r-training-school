@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    color: rgba(255, 255, 255, 0)
+    color: "#9a3e3e"
     gradient_start: rgba(255, 255, 255, 0)
     gradient_end: rgba(255, 255, 255, 0)
 hero_media: welcome.jpg
