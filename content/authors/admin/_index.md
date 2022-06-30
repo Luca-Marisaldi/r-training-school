@@ -1,7 +1,7 @@
 ---
 title: Luca Marisaldi
 role: Docente di analisi dei dati
-avatar_filename: bio.jpeg
+avatar_filename: bio2.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
