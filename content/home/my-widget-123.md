@@ -1,5 +1,5 @@
 ---
-widget: hero.md
+widget: hero
 widget_id: R Training School
 headless: true
 weight: 10
